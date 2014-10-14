@@ -1,4 +1,16 @@
-My-List-Util (Exercise 14-1 from Alpaca Book)
+My-List-Util
+
+### MY STUFF <<<
+
+Exercise 14-1 from Alpaca Book
+
+Interesting bits:
+
+    lib/My-List-Util/Util.pm
+    t/sum.t
+    t/shuffle.t
+
+### MY STUFF >>>
 
 The README is used to introduce the module and provide instructions on
 how to install the module, any machine dependencies it may have (for
