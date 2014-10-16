@@ -3,6 +3,9 @@ package My::List::Util;
 use 5.006;
 use strict;
 use warnings FATAL => 'all';
+use Exporter qw(import);
+
+our @EXPORT = qw( sum shuffle );
 
 =head1 NAME
 
